@@ -1,5 +1,5 @@
-## Welcome to Jonathan's first CS193 Lab
+## Welcome to Jonathan's first CS193 Lab ##
 
-*The AAMB
-*CS department
-*Free Time
+* The AAMB
+* CS department
+* Free Time
